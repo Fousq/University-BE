@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "description": "The backend repository of the University Project",
   "author": "Zhanbolat Orakbayev",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@nestjs/typeorm": "^7.1.0",
+    "pg": "^8.3.0",
+    "postgresql": "0.0.1",
+    "typeorm": "^0.2.25"
+  }
 }
